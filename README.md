@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🙋‍♂️ My name is Aurelio (Ari) Barrios
+- 🎓 Bachelor of Science, Data Science @ UC San Diego
+- 🔭 Looking for opportunities to apply my skills to solve business problems & drive change
+  - 👨‍💻 Python, Pandas, NumPy, Matplotlib, Seaborn and other Python based tools for Data Analysis & Visualization
+  - 🗃 MySQL, PostgreSQL for data querying, JOINS, UNIONS and window functions
+  - 🦾 TensorFlow, PyTorch, Sklearn for Machine Learning
+- 🧠 Always learning! Currently a Data Science fellow at The Knowledge House
+- 🔋 Enjoy meeting & learning from new people!
+
 <!--
 **aureliobarrios/aureliobarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,12 +2,15 @@
 
 - 🙋‍♂️ My name is Aurelio (Ari) Barrios
 - 🎓 Bachelor of Science, Data Science @ UC San Diego
-- 🔭 Looking for opportunities to apply my skills to solve business problems & drive change
+- 🔭 Currently building large scale AI solutions for The Knowledge House
   - 👨‍💻 Python, Pandas, NumPy, Matplotlib, Seaborn and other Python based tools for Data Analysis & Visualization
-  - 🗃 MySQL, PostgreSQL for data querying, JOINS, UNIONS and window functions
+  - 🗃 MySQL, PostgreSQL, JOINS, UNIONS, window functions for Database Interactions
   - 🦾 TensorFlow, PyTorch, Sklearn for Machine Learning
-- 🧠 Always learning! Currently a Data Science fellow at The Knowledge House
+  - 🤖 LangChain & LangGraph for Agentic Engineering
+  - ☁️ Amazon Web Services & Google Cloud Platform for Cloud Solutions
+- 🧠 Always learning! Currently enrolled in an Agentic Engineering training program hosted by Google!
 - 🔋 Enjoy meeting & learning from new people!
+- 🤝 Let's chat! Connect with me on [LinkedIn](https://www.linkedin.com/in/aurelio-barrios/)
 
 <!--
 **aureliobarrios/aureliobarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
